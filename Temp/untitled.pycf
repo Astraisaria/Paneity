@@ -1,0 +1,7 @@
+VAR i = 0
+WHILE i < 5 THEN
+    PRINT(i)
+    VAR i = VAR i + 1
+END
+
+PRINT("Greetings universe!")

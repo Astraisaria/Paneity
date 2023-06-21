@@ -1,0 +1,21 @@
+For a fully functioning version of Paneity, the basic requirements are as follow:
+ 1. Paneity Compiler
+
+For ease-of-use, a basic development package includes:
+ 1. Paneity Compiler
+ 2. Pan Deity
+
+For a full release, the following components are included:
+ 1. Paneity Compiler
+ 2. Pan Deity
+ 3. Release Notes
+ 4. Documentation
+
+For developers, the Development Package includes the full release plus the code files for the current stable version of Paneity:
+ 1. Full Release
+ 2. basic.py - The main source code of the language
+ 3. grammar.txt - A breakdown of how the language is to be typed out
+ 4. Paneity Compiler.py - The source code for the current stable version of the Paneity Compiler
+ 5. shell.py - The source code for the current stable version of the Paneity Shell
+ 6. string_with_arrows.py - A helper script for Paneity used for error handling in Paneity
+ 7. example.pycf - A Paneity Code File containing code snippets of some basic Paneity functionalities
